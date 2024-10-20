@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Первый канал (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_1TV.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Россия 1 (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Матч! (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",НТВ (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_NTV.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Пятый канал (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_5TV.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Россия K (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Россия 24 (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Карусель (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",ОТР (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_OTR.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",ТВЦ (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_TVC.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",РЕН ТВ (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",СТС (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_STS.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Домашний (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",ТВ3 (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_TV3.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Пятница! (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Звезда (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",ТНТ (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_TNT.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Че! (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_CHE.m3u8
+#EXTINF:-1 group-title="ОРЛОВСКАЯ ОБЛАСТЬ",Ю (Орловская область)
+http://dmi3y-tv.ru/hls/zabava/region/ORL_OBL/CH_U.m3u8
